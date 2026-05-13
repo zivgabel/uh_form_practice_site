@@ -1,0 +1,37 @@
+Copyright (c) 2026 Ziv Gabel. All Rights Reserved.
+
+PROPRIETARY SOFTWARE — ALL RIGHTS RESERVED
+
+This software, including all source code, HTML, scripts, designs, text,
+images, and any associated files (collectively, the "Software"), is the
+proprietary work of Ziv Gabel ("the Author") and is protected by
+copyright laws and international treaty provisions.
+
+No part of the Software may be used, copied, reproduced, modified,
+adapted, translated, merged, published, distributed, sublicensed, sold,
+rented, leased, transferred, displayed, performed, or otherwise
+exploited — in whole or in part, in any form or by any means, whether
+electronic, mechanical, or otherwise — without the prior express
+written permission of the Author.
+
+Viewing the Software via its hosted form does not grant any license,
+right, or interest in the Software beyond the limited right to view the
+rendered output in a web browser. No implied licenses are granted.
+
+Reverse engineering, decompiling, disassembling, or attempting to
+derive the source of the Software from any compiled, minified, or
+encrypted form is expressly prohibited.
+
+For licensing inquiries or to request written permission, contact:
+    Ziv Gabel — ziv@gabel.co.il
+
+Unauthorized use, copying, or distribution of the Software is strictly
+prohibited and may result in civil and criminal penalties, and will be
+prosecuted to the maximum extent possible under the law.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
